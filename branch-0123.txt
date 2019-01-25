@@ -1,4 +1,0 @@
-This is the branch created in Jan.23 .
-this is the line after execute "git add"
-add something 0124
-add something 0124
